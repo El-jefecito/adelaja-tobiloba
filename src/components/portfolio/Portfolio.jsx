@@ -1,30 +1,29 @@
 import "./portfolio.css";
 import img1 from "../../../public/project1.jpeg";
-import img2 from "../../../public/project6.jpg";
+import img2 from "../../../public/project2.png";
 import img3 from "../../../public/project3.jpeg";
-import img4 from "../../../public/project4.jpeg";
 
 const data = [
   {
     id: 1,
     image: img1,
     title: "Travel Tour & Guide",
-    github: "https://github.com",
+    github: "https://github.com/travel-tour",
     demo: "https://travel-tour-nine.vercel.app/",
   },
-  // {
-  //   id: 2,
-  //   image: img2,
-  //   title: "Crypto Currency & Financial Visualization",
-  //   github: "https://github.com",
-  //   demo: "https://github.com",
-  // },
+  {
+    id: 2,
+    image: img2,
+    title: "Home-Axil",
+    github: "https://github.com/homeaxil",
+    demo: "https://homeaxil-five.vercel.app",
+  },
   {
     id: 3,
     image: img3,
     title: "WeightLess Non-Profit Organization",
-    github: "https://github.com",
-    demo: "https://github.com",
+    github: "https://El-jefecito/weightless-org",
+    demo: "https://weightless-org.vercel.app/",
   },
   // {
   //   id: 4,
