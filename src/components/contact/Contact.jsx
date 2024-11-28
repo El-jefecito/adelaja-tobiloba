@@ -34,7 +34,7 @@ const Contact = () => {
             <BsLinkedin className="contact__option-icon" />
             <h4>Linkedin</h4>
             <h5>Adelaja Tobiloba</h5>
-            <a href="https://www.linkedin.com/in/adelaja-oluwatobi-a3715425b/">
+            <a href="https://www.linkedin.com/in/adelaja-tobiloba/">
               Let&apos;s Connect
             </a>
           </article>
